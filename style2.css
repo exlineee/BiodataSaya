@@ -1,0 +1,105 @@
+	#header
+	{
+		background: grey;
+		padding-top: 30px;
+		font-size: 1.5em;
+		text-align: center;
+		background-image: url("k.jpg");
+		
+	}
+	img{
+		float: center;
+		
+		position: center;
+		
+	}
+	h1
+	{
+		text-shadow: 2px 2px 5px #aaa;
+		color: white;
+	}
+	body
+	{
+		background-color: #000;
+
+	}
+	#sidebar
+	{
+		background: orange;
+		float: left;
+		height: 400px;
+		width: 25%;
+		font-size: 1.5em;
+		text-align: left;
+		padding-top: 10px;
+	}
+	.menu ul {
+		padding: 0;
+	}
+	.menu ul li {
+		display: inline-block;
+	}
+	.menu ul li a {
+		padding: 10px 30px;
+		text-decoration: none;
+	}
+	#content
+	{
+		background: yellow;
+		float: right;
+		width: 75%;
+		height: 400px;
+		font-size: 2em;
+		text-align: center;
+		padding-top: 10px;
+	}
+	p
+	{
+		font-size: 20px;
+		letter-spacing: 2px;
+		position: relative;
+		font-style: oblique;
+	}
+	#content2
+	{
+		background: yellow;
+		float: left;
+		width: 71%;
+		height: 400px;
+		font-size: 1.5em;
+		text-align: left;
+		padding-top: 10px;
+		padding-left: 2%;
+		padding-right: 2%;
+	}
+	table,
+	th,
+	td{
+		border: 1px solid black;
+	}
+	table{
+		border-collapse: collapse;
+		width: 100%;
+	}
+	th,
+	td {
+		padding: 5px;
+		text-align: center;
+	}
+	#p2
+	{
+		text-align: center;
+		position: center;
+	}
+	#footer
+	{
+		background: grey;
+		clear: both;
+		font-size: 1.5em;
+		text-align: center;
+	}
+.container{
+	width: 80px;
+	margin: 0 auto; 
+}
+.header
